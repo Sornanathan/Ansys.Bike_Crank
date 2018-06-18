@@ -1,1 +1,0 @@
-# Ansys.Bike_Crank
